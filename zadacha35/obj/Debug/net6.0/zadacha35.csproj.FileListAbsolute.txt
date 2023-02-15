@@ -1,0 +1,15 @@
+C:\Users\Камилла\urok5\zadacha35\bin\Debug\net6.0\zadacha35.exe
+C:\Users\Камилла\urok5\zadacha35\bin\Debug\net6.0\zadacha35.deps.json
+C:\Users\Камилла\urok5\zadacha35\bin\Debug\net6.0\zadacha35.runtimeconfig.json
+C:\Users\Камилла\urok5\zadacha35\bin\Debug\net6.0\zadacha35.dll
+C:\Users\Камилла\urok5\zadacha35\bin\Debug\net6.0\zadacha35.pdb
+C:\Users\Камилла\urok5\zadacha35\obj\Debug\net6.0\zadacha35.csproj.AssemblyReference.cache
+C:\Users\Камилла\urok5\zadacha35\obj\Debug\net6.0\zadacha35.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Камилла\urok5\zadacha35\obj\Debug\net6.0\zadacha35.AssemblyInfoInputs.cache
+C:\Users\Камилла\urok5\zadacha35\obj\Debug\net6.0\zadacha35.AssemblyInfo.cs
+C:\Users\Камилла\urok5\zadacha35\obj\Debug\net6.0\zadacha35.csproj.CoreCompileInputs.cache
+C:\Users\Камилла\urok5\zadacha35\obj\Debug\net6.0\zadacha35.dll
+C:\Users\Камилла\urok5\zadacha35\obj\Debug\net6.0\refint\zadacha35.dll
+C:\Users\Камилла\urok5\zadacha35\obj\Debug\net6.0\zadacha35.pdb
+C:\Users\Камилла\urok5\zadacha35\obj\Debug\net6.0\zadacha35.genruntimeconfig.cache
+C:\Users\Камилла\urok5\zadacha35\obj\Debug\net6.0\ref\zadacha35.dll
